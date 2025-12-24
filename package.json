@@ -80,6 +80,6 @@
         "@diia-inhouse/diia-metrics": "3.11.0",
         "lodash.get": "4.4.2",
         "node-vault": "0.10.2",
-        "protobufjs": "7.2.5"
+        "protobufjs": "7.5.4"
     }
 }
